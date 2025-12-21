@@ -3,8 +3,7 @@
   <h1>DIEGO KELME</h1>
   <h3>Full-stack Developer</h3>
   <p><i> Building in public • Born to be global • Let's rock the future</i></p>
-  
-<p> 🇧🇷 🇺🇸 🇪🇸 </p>
+  <p> 🇧🇷 🇺🇸 🇪🇸 </p>
 
   <br/>
 
@@ -41,7 +40,7 @@
   <br/>
   <br/>
 
-  <h3>— LOOK WHAT I AM BUILDING —</h3>
+  <h3>— CHECKOUT WHAT I'M BUILDING —</h3>
   <br/>
   <table>
     <tr>
@@ -72,15 +71,15 @@
   <br/>
   <br/>
 
-  <h3>— THE ARSENAL —</h3>
+  <h3>— THE WEB STACK —</h3>
   <br/>
 
   <div align="center">
 
-| **CATEGORY** | **TECHNOLOGIES** |
-|:---:|:---|
-| **FRONTEND** | ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white) |
-| **BACKEND** | ![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white) ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white) |
+|   **CATEGORY**   | **TECHNOLOGIES**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| :--------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   **FRONTEND**   | ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)                                                                                                                                                                                                               |
+|   **BACKEND**    | ![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white) ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white)                                                                                                               |
 | **OPS / DESIGN** | ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white) |
 
   </div>
@@ -99,11 +98,6 @@
       </td>
       <td align="center" width="50%">
         <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskelme&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&show_icons=true&hide_border=true&layout=compact" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=itskelme&theme=dark&hide_border=true&background=000000&stroke=0000&side=true&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
