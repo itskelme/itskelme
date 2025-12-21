@@ -1,8 +1,10 @@
 <div align="center">
   <br/>
   <h1>DIEGO KELME</h1>
-  <h3>Tech Entrepreneur | Full-stack Developer</h3>
-  <p><i>Building in Public • Florianópolis 🇧🇷 • Global 🌍</i></p>
+  <h3>Full-stack Developer</h3>
+  <p><i> Building in public • Born to be global • Let's rock the future</i></p>
+  
+<p> 🇧🇷 🇺🇸 🇪🇸 </p>
 
   <br/>
 
@@ -23,12 +25,12 @@
   <br/>
 
   <blockquote>
-    <h3>"Always have in mind: Knowledge is for action."</h3>
+    <h3>Always have in mind: Vision without execution is hallucination.</h3>
   </blockquote>
 
   <br/>
 
-  <h3>— ABOUT THE MISSION —</h3>
+  <h3>— ABOUT ME —</h3>
   <br/>
   <p>
     I am a <b>Tech Entrepreneur</b> leveraging code to build <b>scalable businesses</b>.<br/>
@@ -39,7 +41,7 @@
   <br/>
   <br/>
 
-  <h3>— SELECTED WORKS —</h3>
+  <h3>— LOOK WHAT I AM BUILDING —</h3>
   <br/>
   <table>
     <tr>
@@ -87,7 +89,7 @@
   <br/>
   <br/>
 
-  <h3>— DATA STREAM —</h3>
+  <h3>— GITHUB STATS —</h3>
   <br/>
   
   <table>
@@ -101,7 +103,7 @@
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=itskelme&theme=dark&hide_border=true&background=000000&stroke=0000&side=true&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=itskelme&theme=dark&hide_border=true&background=000000&stroke=0000&side=true&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
