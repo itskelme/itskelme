@@ -45,27 +45,47 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <a href="https://kelme.studio/works"><img src="https://kelme.studio/placeholder-opudz.png" width="100%" alt="Steez" /></a>
+        <a href="https://kelme.studio"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_steez-min.png&w=1080&q=75" width="100%" alt="Steez Drink" /></a>
         <br/>
         <b>STEEZ DRINK</b><br/>
-        <small>Next.js • E-commerce</small>
+        <small>E-Commerce • 2023</small>
       </td>
       <td align="center" width="33%">
-        <a href="https://kelme.studio/works"><img src="https://kelme.studio/luxury-fashion-ecommerce.png" width="100%" alt="Impulsione" /></a>
+        <a href="https://kelme.studio"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_turbinouinsta-min.png&w=1080&q=75" width="100%" alt="TurbinouInsta" /></a>
         <br/>
-        <b>IMPULSIONE GRAM</b><br/>
-        <small>SaaS • Marketing</small>
+        <b>TURBINOUINSTA</b><br/>
+        <small>E-Commerce • 2022</small>
       </td>
       <td align="center" width="33%">
-        <a href="https://kelme.studio/works"><img src="https://kelme.studio/modern-startup-hero.png" width="100%" alt="3Pi" /></a>
+        <a href="https://kelme.studio"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_pppi-min.png&w=1080&q=75" width="100%" alt="PPPI" /></a>
         <br/>
-        <b>3PI TRADEMARKS</b><br/>
-        <small>WordPress • Institutional</small>
+        <b>PPPI TRADEMARKS</b><br/>
+        <small>Branding • 2024</small>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://kelme.studio"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_flikta-min.png&w=1080&q=75" width="100%" alt="Flikta" /></a>
+        <br/>
+        <b>FLIKTA</b><br/>
+        <small>SaaS • 2024</small>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://kelme.studio"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_ponteamericas-min.png&w=1080&q=75" width="100%" alt="Ponte Américas" /></a>
+        <br/>
+        <b>PONTE AMÉRICAS</b><br/>
+        <small>Landing Page • 2025</small>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://kelme.studio"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_pandami-min.png&w=1080&q=75" width="100%" alt="Pandami" /></a>
+        <br/>
+        <b>PANDAMI</b><br/>
+        <small>AI SaaS • 2025</small>
       </td>
     </tr>
   </table>
   <br/>
-  <a href="https://kelme.studio/works"><b>EXPLORE ALL PROJECTS AT KELME.STUDIO →</b></a>
+  <a href="https://kelme.studio/work"><b>EXPLORE ALL PROJECTS AT KELME.STUDIO →</b></a>
 
   <br/>
   <br/>
@@ -94,10 +114,10 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img height="165px" src="https://github-readme-stats.vercel.app/api?username=itskelme&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itskelme&theme=github_dark" />
       </td>
       <td align="center" width="50%">
-        <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskelme&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&show_icons=true&hide_border=true&layout=compact" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itskelme&theme=github_dark" />
       </td>
     </tr>
   </table>
