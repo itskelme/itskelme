@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/Connect-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" height="30" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="mailto:kelme.dev@pm.me">
+    <a href="mailto:kelme@zarpstudio.com">
       <img src="https://img.shields.io/badge/Contact-000000?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email" />
     </a>
   </p>
@@ -45,19 +45,19 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <a href="https://kelme.studio"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_steez-min.png&w=1080&q=75" width="100%" alt="Steez Drink" /></a>
+        <a href="https://www.zarpstudio.com"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_steez-min.png&w=1080&q=75" width="100%" alt="Steez Drink" /></a>
         <br/>
         <b>STEEZ DRINK</b><br/>
         <small>E-Commerce • 2023</small>
       </td>
       <td align="center" width="33%">
-        <a href="https://kelme.studio"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_turbinouinsta-min.png&w=1080&q=75" width="100%" alt="TurbinouInsta" /></a>
+        <a href="https://www.zarpstudio.com"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_turbinouinsta-min.png&w=1080&q=75" width="100%" alt="TurbinouInsta" /></a>
         <br/>
         <b>TURBINOUINSTA</b><br/>
         <small>E-Commerce • 2022</small>
       </td>
       <td align="center" width="33%">
-        <a href="https://kelme.studio"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_pppi-min.png&w=1080&q=75" width="100%" alt="PPPI" /></a>
+        <a href="https://www.zarpstudio.com"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_pppi-min.png&w=1080&q=75" width="100%" alt="PPPI" /></a>
         <br/>
         <b>PPPI TRADEMARKS</b><br/>
         <small>Branding • 2024</small>
@@ -65,19 +65,19 @@
     </tr>
     <tr>
       <td align="center" width="33%">
-        <a href="https://kelme.studio"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_flikta-min.png&w=1080&q=75" width="100%" alt="Flikta" /></a>
+        <a href="https://www.zarpstudio.com"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_flikta-min.png&w=1080&q=75" width="100%" alt="Flikta" /></a>
         <br/>
         <b>FLIKTA</b><br/>
         <small>SaaS • 2024</small>
       </td>
       <td align="center" width="33%">
-        <a href="https://kelme.studio"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_ponteamericas-min.png&w=1080&q=75" width="100%" alt="Ponte Américas" /></a>
+        <a href="https://www.zarpstudio.com"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_ponteamericas-min.png&w=1080&q=75" width="100%" alt="Ponte Américas" /></a>
         <br/>
         <b>PONTE AMÉRICAS</b><br/>
         <small>Landing Page • 2025</small>
       </td>
       <td align="center" width="33%">
-        <a href="https://kelme.studio"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_pandami-min.png&w=1080&q=75" width="100%" alt="Pandami" /></a>
+        <a href="https://www.zarpstudio.com"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_pandami-min.png&w=1080&q=75" width="100%" alt="Pandami" /></a>
         <br/>
         <b>PANDAMI</b><br/>
         <small>AI SaaS • 2025</small>
@@ -85,7 +85,7 @@
     </tr>
   </table>
   <br/>
-  <a href="https://kelme.studio/work"><b>EXPLORE ALL PROJECTS AT KELME.STUDIO →</b></a>
+  <a href="https://www.zarpstudio.com/work"><b>EXPLORE ALL PROJECTS AT KELME.STUDIO →</b></a>
 
   <br/>
   <br/>
