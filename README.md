@@ -47,7 +47,7 @@
     &nbsp;&nbsp;
     <a href="https://aws.amazon.com/startups" target="_blank"><img src="assets/badges/aws-startups.png" height="80" alt="AWS Startups" /></a>
   </p>
-  <p><small><a href="https://flikta.com">Flikta</a> is part of the Google for Startups and AWS Startups programs.</small></p>
+  <p><small><a href="https://www.zarpstudio.com">Zarp Studio</a> is part of the Google for Startups and AWS Startups programs.</small></p>
 
   <br/>
   <br/>
