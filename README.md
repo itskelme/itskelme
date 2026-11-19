@@ -40,52 +40,134 @@
   <br/>
   <br/>
 
+  <h3>— STARTUP PROGRAMS —</h3>
+  <br/>
+  <p>
+    <a href="https://startup.google.com" target="_blank"><img src="assets/badges/google-for-startups.png" height="80" alt="Google for Startups" /></a>
+    &nbsp;&nbsp;
+    <a href="https://aws.amazon.com/startups" target="_blank"><img src="assets/badges/aws-startups.png" height="80" alt="AWS Startups" /></a>
+  </p>
+  <p><small><a href="https://flikta.com">Flikta</a> is part of the Google for Startups and AWS Startups programs.</small></p>
+
+  <br/>
+  <br/>
+
+  <h3>— EDUCATION —</h3>
+  <br/>
+  <a href="https://www.ufsm.br" target="_blank"><img src="assets/badges/ufsm.png" height="120" alt="UFSM — Universidade Federal de Santa Maria" /></a>
+  <p>
+    <b>Information Systems</b> (Sistemas de Informação)<br/>
+    Universidade Federal de Santa Maria — UFSM
+  </p>
+
+  <br/>
+  <br/>
+
   <h3>— CHECKOUT WHAT I'M BUILDING —</h3>
+  <p>14 projects designed, built and shipped at <a href="https://www.zarpstudio.com"><b>Zarp Studio</b></a></p>
   <br/>
   <table>
     <tr>
-      <td align="center" width="33%">
-        <a href="https://www.zarpstudio.com"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_steez-min.png&w=1080&q=75" width="100%" alt="Steez Drink" /></a>
+      <td align="center" width="50%">
+        <a href="https://www.zarpstudio.com/work/allbrick-pavers"><img src="assets/works/allbrick-pavers.jpg" width="100%" alt="AllBrick Pavers" /></a>
         <br/>
-        <b>STEEZ DRINK</b><br/>
-        <small>E-Commerce • 2023</small>
+        <b>ALLBRICK PAVERS</b><br/>
+        <small>Pavers &amp; Hardscaping • 2026</small>
       </td>
-      <td align="center" width="33%">
-        <a href="https://www.zarpstudio.com"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_turbinouinsta-min.png&w=1080&q=75" width="100%" alt="TurbinouInsta" /></a>
+      <td align="center" width="50%">
+        <a href="https://www.zarpstudio.com/work/coastal-roofing-group"><img src="assets/works/coastal-roofing-group.jpg" width="100%" alt="Coastal Roofing Group" /></a>
         <br/>
-        <b>TURBINOUINSTA</b><br/>
-        <small>E-Commerce • 2022</small>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://www.zarpstudio.com"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_pppi-min.png&w=1080&q=75" width="100%" alt="PPPI" /></a>
-        <br/>
-        <b>PPPI TRADEMARKS</b><br/>
-        <small>Branding • 2024</small>
+        <b>COASTAL ROOFING GROUP</b><br/>
+        <small>Roofing Contractor • 2026</small>
       </td>
     </tr>
     <tr>
-      <td align="center" width="33%">
-        <a href="https://www.zarpstudio.com"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_flikta-min.png&w=1080&q=75" width="100%" alt="Flikta" /></a>
+      <td align="center" width="50%">
+        <a href="https://www.zarpstudio.com/work/phenomenal-renovation"><img src="assets/works/phenomenal-renovation.jpg" width="100%" alt="Phenomenal Renovation" /></a>
+        <br/>
+        <b>PHENOMENAL RENOVATION</b><br/>
+        <small>Kitchen &amp; Bath Remodeling • 2026</small>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://www.zarpstudio.com/work/jbs-southwest-florida"><img src="assets/works/jbs-southwest-florida.jpg" width="100%" alt="JB of SW Florida" /></a>
+        <br/>
+        <b>JB OF SW FLORIDA</b><br/>
+        <small>Interior Remodeling • 2026</small>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://www.zarpstudio.com/work/master-cabinets"><img src="assets/works/master-cabinets.jpg" width="100%" alt="Master Cabinets" /></a>
+        <br/>
+        <b>MASTER CABINETS</b><br/>
+        <small>Custom Cabinetry &amp; Remodeling • 2026</small>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://www.zarpstudio.com/work/level-one-grading"><img src="assets/works/level-one-grading.jpg" width="100%" alt="Level One Grading" /></a>
+        <br/>
+        <b>LEVEL ONE GRADING</b><br/>
+        <small>Excavation &amp; Land Grading • 2026</small>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://www.zarpstudio.com/work/kays-cleaning-service"><img src="assets/works/kays-cleaning-service.jpg" width="100%" alt="Kay's Cleaning Service" /></a>
+        <br/>
+        <b>KAY'S CLEANING SERVICE</b><br/>
+        <small>House Cleaning &amp; Maid Service • 2026</small>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://www.zarpstudio.com/work/licensefix-school"><img src="assets/works/licensefix-school.jpg" width="100%" alt="LicenseFix School of Construction" /></a>
+        <br/>
+        <b>LICENSEFIX SCHOOL OF CONSTRUCTION</b><br/>
+        <small>Contractor Exam Prep &amp; Online Courses • 2026</small>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://www.zarpstudio.com/work/latibras-insurance"><img src="assets/works/latibras-insurance.jpg" width="100%" alt="Latibras Insurance" /></a>
+        <br/>
+        <b>LATIBRAS INSURANCE</b><br/>
+        <small>Insurance Agency • 2026</small>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://www.zarpstudio.com/work/a1-magic-bail-bonds"><img src="assets/works/a1-magic-bail-bonds.jpg" width="100%" alt="A1 Magic Bail Bonds" /></a>
+        <br/>
+        <b>A1 MAGIC BAIL BONDS</b><br/>
+        <small>Bail Bonds • 2026</small>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://www.zarpstudio.com/work/atw-lie-detector"><img src="assets/works/atw-lie-detector.jpg" width="100%" alt="ATW Lie Detector" /></a>
+        <br/>
+        <b>ATW LIE DETECTOR</b><br/>
+        <small>Lie Detection Testing • 2026</small>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://www.zarpstudio.com/work/orlando-identity-testing"><img src="assets/works/orlando-identity-testing.jpg" width="100%" alt="Orlando Identity &amp; Testing" /></a>
+        <br/>
+        <b>ORLANDO IDENTITY &amp; TESTING</b><br/>
+        <small>Fingerprinting &amp; Drug Testing • 2026</small>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://www.zarpstudio.com/work/flikta"><img src="assets/works/flikta.jpg" width="100%" alt="Flikta" /></a>
         <br/>
         <b>FLIKTA</b><br/>
         <small>SaaS • 2024</small>
       </td>
-      <td align="center" width="33%">
-        <a href="https://www.zarpstudio.com"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_ponteamericas-min.png&w=1080&q=75" width="100%" alt="Ponte Américas" /></a>
+      <td align="center" width="50%">
+        <a href="https://www.zarpstudio.com/work/steez-drink"><img src="assets/works/steez-drink.jpg" width="100%" alt="Steez Drink" /></a>
         <br/>
-        <b>PONTE AMÉRICAS</b><br/>
-        <small>Landing Page • 2025</small>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://www.zarpstudio.com"><img src="https://kelme.studio/_next/image?url=%2Fimages%2Fworks%2Fwork_banner_pandami-min.png&w=1080&q=75" width="100%" alt="Pandami" /></a>
-        <br/>
-        <b>PANDAMI</b><br/>
-        <small>AI SaaS • 2025</small>
+        <b>STEEZ DRINK</b><br/>
+        <small>E-Commerce • 2023</small>
       </td>
     </tr>
   </table>
   <br/>
-  <a href="https://www.zarpstudio.com/work"><b>EXPLORE ALL PROJECTS AT KELME.STUDIO →</b></a>
+  <a href="https://www.zarpstudio.com/work"><b>EXPLORE ALL PROJECTS AT ZARPSTUDIO.COM →</b></a>
 
   <br/>
   <br/>
